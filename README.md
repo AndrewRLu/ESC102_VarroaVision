@@ -15,11 +15,11 @@ Manual mite counting is tedious and prone to human error. This project implement
 - **Analytics**: Logs session results to CSV and generates temporal trend graphs using Matplotlib for hive health tracking.
 
 ## How it Works
-1. Calibration – User captures a reference image and defines a mite size baseline.
-2. Preprocessing – Image normalization and colour space conversion improve mite contrast.
-3. Masking – Dual-range HSV masking isolates potential mite regions.
-4. Verification – User may confirm or reject edge-case detections.
-5. Output – Final mite count is displayed alongside historical trends from past sessions.
+1. **Calibration** – User captures a reference image and defines a mite size baseline.
+2. **Preprocessing** – Image normalization and colour space conversion improve mite contrast.
+3. **Masking** – Dual-range HSV masking isolates potential mite regions.
+4. **Verification** – User may confirm or reject edge-case detections.
+5. **Output** – Final mite count is displayed alongside historical trends from past sessions.
 
 
 
