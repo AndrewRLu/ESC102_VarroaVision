@@ -24,6 +24,6 @@ Manual mite counting is tedious and prone to human error. This project implement
 
 
 | Original Image | ![Original](./images/original.png) |
-|------|-------|
+|:---:|:---:|
 | Masked Mites | ![Masked](./images/mask.png) |
 | Mite Count | ![Count](./images/count.gif) |
