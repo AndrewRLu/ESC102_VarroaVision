@@ -21,3 +21,6 @@ Manual mite counting is tedious and prone to human error. This project implement
 4. Verification – User may confirm or reject edge-case detections.
 5. Output – Final mite count is displayed alongside historical trends from past sessions.
 
+| Original Image | Masked Mites | Mite Count |
+|----------------|--------------|------------|
+| ![Original](./images/original.png) | ![Masked](./images/mask.png) | ![Count](./images/count.gif) |
